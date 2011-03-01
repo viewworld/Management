@@ -10,7 +10,7 @@ from datetime import date
 pem_file = '/home/ec2-user/pk-QH4XHF6HOJOUXGIT6FGEDB3HYYDMK7RW.pem'  
 cert_file = '/home/ec2-user/cert-QH4XHF6HOJOUXGIT6FGEDB3HYYDMK7RW.pem'  
 
-data_disk = 'vol-ba7dc0d3'
+data_disk = 'vol-9e14b9f7'
 ec2_path = '/opt/aws/bin/' #use trailing slash  
 region = 'eu-west-1'
 

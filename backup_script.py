@@ -1,5 +1,9 @@
 #!/usr/bin/python
 
+# Backup script for taking daily snapshots of data disk on production server. 
+# Must be run as a nightly cron job from trac.viewworld.dk
+# TODO: Make sure that disk is in a fixed state before a snapshot is taken
+
 import os 
 from datetime import date  
   

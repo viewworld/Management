@@ -2,6 +2,7 @@
 
 # Backup script for taking daily snapshots of data disk on production server. 
 # Must be run as a nightly cron job from trac.viewworld.dk
+# This script only backs up the data-disk containing reports, media files are stored in S3
 # TODO: Make sure that disk is in a fixed state before a snapshot is taken
 
 import os 

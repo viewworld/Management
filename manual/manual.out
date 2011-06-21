@@ -1,0 +1,20 @@
+\BOOKMARK [1][-]{section*.1}{Getting Started}{}
+\BOOKMARK [1][-]{section*.1}{Android phone}{}
+\BOOKMARK [2][-]{section*.2}{Network subscription}{section*.1}
+\BOOKMARK [2][-]{section*.2}{Installing application}{section*.1}
+\BOOKMARK [2][-]{figure.1}{Setup}{section*.1}
+\BOOKMARK [3][-]{section*.3}{Server settings}{figure.1}
+\BOOKMARK [3][-]{figure.4}{Downloading forms}{figure.1}
+\BOOKMARK [2][-]{figure.7}{Basic use}{section*.1}
+\BOOKMARK [3][-]{section*.4}{Fill in a report}{figure.7}
+\BOOKMARK [3][-]{figure.11}{Sending reports}{figure.7}
+\BOOKMARK [2][-]{figure.12}{Advanced use}{section*.1}
+\BOOKMARK [1][-]{figure.12}{Web-interface}{}
+\BOOKMARK [2][-]{section*.5}{Login to web-interface}{figure.12}
+\BOOKMARK [2][-]{section*.5}{View report data}{figure.12}
+\BOOKMARK [3][-]{figure.14}{Ordering report data}{section*.5}
+\BOOKMARK [3][-]{figure.14}{View media data}{section*.5}
+\BOOKMARK [2][-]{figure.15}{Edit report data}{figure.12}
+\BOOKMARK [2][-]{figure.17}{Export data}{figure.12}
+\BOOKMARK [2][-]{figure.17}{Managing users}{figure.12}
+\BOOKMARK [1][-]{figure.17}{Troubleshooting}{}

@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Getting Started}{3}{section*.1}
+\contentsline {section}{\numberline {2}Android phone}{3}{section*.1}
+\contentsline {subsection}{\numberline {2.1}Network subscription}{4}{section*.2}
+\contentsline {subsection}{\numberline {2.2}Installing application}{5}{section*.2}
+\contentsline {subsection}{\numberline {2.3}Setup}{5}{figure.1}
+\contentsline {subsubsection}{\numberline {2.3.1}Server settings}{6}{section*.3}
+\contentsline {subsubsection}{\numberline {2.3.2}Downloading forms}{6}{figure.4}
+\contentsline {subsection}{\numberline {2.4}Basic use}{10}{figure.7}
+\contentsline {subsubsection}{\numberline {2.4.1}Fill in a report}{10}{section*.4}
+\contentsline {subsubsection}{\numberline {2.4.2}Sending reports}{13}{figure.11}
+\contentsline {subsection}{\numberline {2.5}Advanced use}{14}{figure.12}
+\contentsline {section}{\numberline {3}Web-interface}{14}{figure.12}
+\contentsline {subsection}{\numberline {3.1}Login to web-interface}{14}{section*.5}
+\contentsline {subsection}{\numberline {3.2}View report data}{14}{section*.5}
+\contentsline {subsubsection}{\numberline {3.2.1}Ordering report data}{16}{figure.14}
+\contentsline {subsubsection}{\numberline {3.2.2}View media data}{16}{figure.14}
+\contentsline {subsection}{\numberline {3.3}Edit report data}{17}{figure.15}
+\contentsline {subsection}{\numberline {3.4}Export data}{19}{figure.17}
+\contentsline {subsection}{\numberline {3.5}Managing users}{19}{figure.17}
+\contentsline {section}{\numberline {4}Troubleshooting}{19}{figure.17}

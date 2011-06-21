@@ -1,0 +1,475 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.4.13)  22 MAY 2011 11:34
+entering extended mode
+ %&-line parsing enabled.
+**manual.tex
+(./manual.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/fixme/fixme.sty
+Package: fixme 2009/09/30 v4.1 Insert fixme notes in your documents
+
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks14
+\verbatim@line=\toks15
+\verbatim@in@stream=\read1
+)
+(/usr/share/texmf-texlive/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+(/usr/share/texmf-texlive/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+\XKV@depth=\count87
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+
+(/usr/share/texmf-texlive/tex/generic/xkeyval/keyval.tex)))
+\c@fixmecount=\count88
+\c@fxnotecount=\count89
+\c@fxwarningcount=\count90
+\c@fxerrorcount=\count91
+\c@fxfatalcount=\count92
+)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen103
+\Hy@linkcounter=\count93
+\Hy@pagecounter=\count94
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Option `final' set `true' on input line 2864.
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3428.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count95
+\Field@Width=\dimen104
+\Fld@charsize=\dimen105
+\Field@toks=\toks18
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring OFF on input line 4397.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count96
+\c@Item=\count97
+\c@Hfootnote=\count98
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count99
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+(/usr/share/texmf-texlive/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count101
+\float@exts=\toks19
+\float@box=\box26
+\@float@everytoks=\toks20
+\@floatcapt=\box27
+)
+(/usr/share/texmf-texlive/tex/latex/tools/varioref.sty
+Package: varioref 2009/09/13 v1.4w package for extended references (FMi)
+\c@vrcnt=\count102
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/boxedminipage.sty)
+Package hyperref Info: Option `colorlinks' set `true' on input line 10.
+
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+) (./manual.aux)
+\openout1 = `manual.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+Package hyperref Info: Link coloring ON on input line 33.
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count103
+LaTeX Info: Redefining \Ref on input line 396.
+)
+LaTeX Info: Redefining \ref on input line 33.
+LaTeX Info: Redefining \pageref on input line 33.
+ (./manual.out)
+(./manual.out)
+\@outlinefile=\write3
+\openout3 = `manual.out'.
+
+\AtBeginShipoutBox=\box28
+LaTeX Info: Redefining \Ref on input line 33.
+ (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen108
+\scratchbox=\box29
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen109
+\MPnumerator=\count108
+\everyMPtoPDFconversion=\toks22
+) <View_World_Logo.jpg, id=76, 1828.8325pt x 395.4775pt>
+File: View_World_Logo.jpg Graphic file (type jpg)
+
+<use View_World_Logo.jpg>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 36.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 36.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./View_World_Logo.jpg>] (.
+/manual.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
+\tf@toc=\write4
+\openout4 = `manual.toc'.
+
+File: View_World_Logo.jpg Graphic file (type jpg)
+ <use View_World_Logo.jpg> [2]
+File: View_World_Logo.jpg Graphic file (type jpg)
+
+<use View_World_Logo.jpg> [3]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 72.
+
+File: View_World_Logo.jpg Graphic file (type jpg)
+<use View_World_Logo.jpg> [4]
+<pics/vw_app_icon.png, id=124, 484.81125pt x 806.01125pt>
+File: pics/vw_app_icon.png Graphic file (type png)
+
+<use pics/vw_app_icon.png>
+File: View_World_Logo.jpg Graphic file (type jpg)
+ <use View_World_Logo.jpg> [5 <./pics/vw_app_icon.png (PNG copy)>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 108.
+
+<pics/vw_front_screen.png, id=131, 488.82625pt x 811.03pt>
+File: pics/vw_front_screen.png Graphic file (type png)
+
+<use pics/vw_front_screen.png>
+<pics/vw_server_pref_1.png, id=134, 490.83376pt x 811.03pt>
+File: pics/vw_server_pref_1.png Graphic file (type png)
+
+<use pics/vw_server_pref_1.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<pics/vw_server_pref_2.png, id=135, 487.8225pt x 809.0225pt>
+File: pics/vw_server_pref_2.png Graphic file (type png)
+
+<use pics/vw_server_pref_2.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<pics/manage_forms_and_data.png, id=137, 491.8375pt x 811.03pt>
+File: pics/manage_forms_and_data.png Graphic file (type png)
+
+<use pics/manage_forms_and_data.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: View_World_Logo.jpg Graphic file (type jpg)
+<use View_World_Logo.jpg> [6 <./pics/vw_front_screen.png (PNG copy)>]
+File: View_World_Logo.jpg Graphic file (type jpg)
+
+<use View_World_Logo.jpg> [7 <./pics/vw_server_pref_1.png (PNG copy)> <./pics/v
+w_server_pref_2.png (PNG copy)>]
+<pics/get_new_forms.png, id=153, 487.8225pt x 811.03pt>
+File: pics/get_new_forms.png Graphic file (type png)
+
+<use pics/get_new_forms.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<pics/new_form_downloaded.png, id=154, 490.83376pt x 811.03pt>
+File: pics/new_form_downloaded.png Graphic file (type png)
+
+<use pics/new_form_downloaded.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: View_World_Logo.jpg Graphic file (type jpg)
+<use View_World_Logo.jpg> [8 <./pics/manage_forms_and_data.png (PNG copy)>]
+
+LaTeX Warning: Text page 9 contains only floats.
+
+File: View_World_Logo.jpg Graphic file (type jpg)
+<use View_World_Logo.jpg> [9 <./pics/get_new_forms.png (PNG copy)> <./pics/new_
+form_downloaded.png (PNG copy)>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 169.
+
+<pics/start_new_form_list.png, id=165, 489.83pt x 810.02625pt>
+File: pics/start_new_form_list.png Graphic file (type png)
+
+<use pics/start_new_form_list.png>
+<pics/new_report_first_screen.png, id=166, 488.82625pt x 808.01875pt>
+File: pics/new_report_first_screen.png Graphic file (type png)
+
+<use pics/new_report_first_screen.png>
+File: View_World_Logo.jpg Graphic file (type jpg)
+ <use View_World_Logo.jpg> [10 <./pics/start_new_form_list.png (PNG copy)>]
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 193--196
+[]$[]$ 
+ []
+
+<pics/new_report_picture.png, id=175, 493.845pt x 811.03pt>
+File: pics/new_report_picture.png Graphic file (type png)
+
+<use pics/new_report_picture.png>
+File: View_World_Logo.jpg Graphic file (type jpg)
+ <use View_World_Logo.jpg> [11 <./pics/new_report_first_screen.png (PNG copy)>]
+
+<pics/new_report_finished.png, id=181, 489.83pt x 809.0225pt>
+File: pics/new_report_finished.png Graphic file (type png)
+
+<use pics/new_report_finished.png>
+File: View_World_Logo.jpg Graphic file (type jpg)
+ <use View_World_Logo.jpg> [12 <./pics/new_report_picture.png (PNG copy)> <./pi
+cs/new_report_finished.png (PNG copy)>]
+<pics/send_finished_data.png, id=187, 490.83376pt x 810.02625pt>
+File: pics/send_finished_data.png Graphic file (type png)
+
+<use pics/send_finished_data.png>
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 227--230
+[]$[]$ 
+ []
+
+File: View_World_Logo.jpg Graphic file (type jpg)
+<use View_World_Logo.jpg> [13 <./pics/send_finished_data.png (PNG copy)>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 239.
+
+<pics/web_select_report.png, id=196, 1049.9225pt x 722.7pt>
+File: pics/web_select_report.png Graphic file (type png)
+
+<use pics/web_select_report.png>
+File: View_World_Logo.jpg Graphic file (type jpg)
+ <use View_World_Logo.jpg> [14]
+<pics/web_view_demo_data.png, id=204, 1100.11pt x 753.81625pt>
+File: pics/web_view_demo_data.png Graphic file (type png)
+
+<use pics/web_view_demo_data.png>
+File: View_World_Logo.jpg Graphic file (type jpg)
+ <use View_World_Logo.jpg> [15 <./pics/web_select_report.png (PNG copy)>]
+File: View_World_Logo.jpg Graphic file (type jpg)
+ <use View_World_Logo.jpg> [16 <./pics/web_view_demo_data.png (PNG copy)>]
+<pics/web_view_picture.png, id=216, 1242.6425pt x 873.2625pt>
+File: pics/web_view_picture.png Graphic file (type png)
+
+<use pics/web_view_picture.png>
+<pics/web_edit_date.png, id=220, 459.7175pt x 350.30875pt>
+File: pics/web_edit_date.png Graphic file (type png)
+
+<use pics/web_edit_date.png>
+File: View_World_Logo.jpg Graphic file (type jpg)
+ <use View_World_Logo.jpg> [17 <./pics/web_view_picture.png (PNG copy)>]
+<pics/web_edit_select_one.png, id=227, 390.45876pt x 293.095pt>
+File: pics/web_edit_select_one.png Graphic file (type png)
+
+<use pics/web_edit_select_one.png>
+File: View_World_Logo.jpg Graphic file (type jpg)
+ <use View_World_Logo.jpg> [18 <./pics/web_edit_date.png (PNG copy)> <./pics/we
+b_edit_select_one.png (PNG copy)>]
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 336--338
+[]$[]$ 
+ []
+
+
+FiXme Summary: Number of notes: 0,
+(FiXme)        Number of warnings: 0,
+(FiXme)        Number of errors: 0,
+(FiXme)        Number of fatal errors: 0,
+(FiXme)        Total: 0.
+
+File: View_World_Logo.jpg Graphic file (type jpg)
+<use View_World_Logo.jpg> [19] (./manual.aux) ) 
+Here is how much of TeX's memory you used:
+ 5328 strings out of 495061
+ 78344 string characters out of 1182621
+ 151119 words of memory out of 3000000
+ 8376 multiletter control sequences out of 15000+50000
+ 9493 words of font info for 34 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 38i,15n,60p,473b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti12.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on manual.pdf (19 pages, 2104977 bytes).
+PDF statistics:
+ 267 PDF objects out of 1000 (max. 8388607)
+ 42 named destinations out of 1000 (max. 500000)
+ 251 words of extra memory for PDF output out of 10000 (max. 10000000)
+

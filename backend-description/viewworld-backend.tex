@@ -1,0 +1,92 @@
+\documentclass[a4paper, 12pt, final]{article}
+
+\usepackage{fixme}
+%\usepackage{url}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{varioref}
+\usepackage{boxedminipage}
+\hypersetup{colorlinks=true}
+
+\title{
+  \includegraphics[height=1in]{View_World_Logo.jpg}\\
+  Description of the ViewWorld back end system
+  }
+
+\author{
+  Kasper Laudrup\\
+  \url{kl@viewworld.dk}
+}
+
+\date{\today}
+
+\usepackage{fancyhdr}
+\renewcommand{\headheight}{0.6in}
+\setlength{\headwidth}{\textwidth}
+\fancyhead[L]{}% empty left
+\fancyhead[R]{ % right
+  \includegraphics[height=0.3in]{View_World_Logo.jpg}
+}
+\pagestyle{fancy}
+
+\begin{document}
+
+\maketitle
+
+\newpage
+
+\section{Introduction}
+The ViewWorld back end system is designed to be highly modular, giving
+the advantage of high reliability of loosely connected
+components\footnote{``No single point of failure''}, the possibility to
+achieve low latency based on location as well as easy exchange of
+single components without affecting the overall system.\\
+In order to achieve this, ViewWorld is using the cloud
+computing resources provided by Amazon Web
+Services\footnote{\href{http://aws.amazon.com}{http://aws.amazon.com}}.
+Amazon guarantees impressive uptime and availability, as well as
+locations across the globe which satisfies ViewWorlds goals of high
+availability as well as low latency.\\
+ViewWorld uses Amazons EC2 service for hosting our back end servers and
+Amazons S3 service for hosting static content. In addition to Amazons
+own backup and safety routines, ViewWorld also ensures backup of our
+customers data.
+
+\section{The ViewWorld servers}
+ViewWorlds servers are running in Amazons EC2 service hosted in two
+locations. The primary location is Europe (Ireland), with USA as a
+secondary location in the unlikely case of disruption in the European
+location. Currently progress is being made on using Amazons Elastic
+Load Balancing service to further guarantee availability.\\
+The servers handling the data received from the mobile application as
+well as serving the website contents are based on RedHat Enterprise
+Linux servers running the Apache Web Server and using the Django Web
+Framework.\\
+The report data received from the mobile application is stored in a
+native XML database\footnote{Currently \href{exist-db.org}{eXist}}
+running separately from the web servers receiving and serving the
+contents. This helps achieve the goals of a modular design.
+
+\section{How ViewWorld stores content}
+ViewWorld uses the Amazon S3 Simple Storage Service for storing data
+associated with uploaded reports (e.g. images, video etc.). The S3
+service stores the data on multiple devices, which enables Amazon to
+claim high reliability. ViewWorld uses the storage services build in
+versioning capabilities to ensure rollback is possible in case data
+inadvertently get overwritten when a report is updated.\\
+ViewWorld is currently working on providing data through Amazons
+Cloudfront service in order to minimize latency.
+
+\section{Backup}
+In addition to the guarantees given by Amazon concerning reliability,
+ViewWorld also maintains our own backup of the database where the
+reports are stored and the user database where the users and groups
+are stored.\\
+This is done by dumping the contents of the databases into a dedicated
+backup area using the Amazon S3 storage service twice a day. Since the
+backup has versioning enabled, it is possible to revert to a previous
+version of the data in case some data was inadvertently deleted by the
+user.
+
+\end{document}

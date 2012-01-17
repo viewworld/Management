@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.4.13)  22 MAY 2011 11:34
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.4.13)  21 JUN 2011 12:26
 entering extended mode
  %&-line parsing enabled.
 **manual.tex
@@ -410,6 +410,11 @@ File: View_World_Logo.jpg Graphic file (type jpg)
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 239.
 
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 246--248
+[]$[]$ 
+ []
+
 <pics/web_select_report.png, id=196, 1049.9225pt x 722.7pt>
 File: pics/web_select_report.png Graphic file (type png)
 
@@ -441,7 +446,7 @@ File: pics/web_edit_select_one.png Graphic file (type png)
 File: View_World_Logo.jpg Graphic file (type jpg)
  <use View_World_Logo.jpg> [18 <./pics/web_edit_date.png (PNG copy)> <./pics/we
 b_edit_select_one.png (PNG copy)>]
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 336--338
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 340--342
 []$[]$ 
  []
 
@@ -467,7 +472,7 @@ type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/publi
 c/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
 m/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti12.pfb
 ></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on manual.pdf (19 pages, 2104977 bytes).
+Output written on manual.pdf (19 pages, 2105433 bytes).
 PDF statistics:
  267 PDF objects out of 1000 (max. 8388607)
  42 named destinations out of 1000 (max. 500000)
